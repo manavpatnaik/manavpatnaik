@@ -1,14 +1,22 @@
-### Hey there people! 👋
+## Hey there people! 👋
 
-I am Manav Patnaik, a Computer Science Undergrad
-interested in Web Development and Problem Solving
+I am Manav Patnaik, a Computer Science Undergrad from ![India](../manavpatnaik/assets/india.png)
+interested in Web Development and Problem Solving 
+---
 
-### Hey folks! 👋
-
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Nodejs, Reactjs and other fun things
+- 👯 I’m looking to collaborate on Backend Web dev projects
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: 
+
+📫 Reach me here: 
+\
+[![Gmail Badge](https://img.shields.io/badge/-dev.manavpatnaik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:dev.manavpatnaik@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-patnaik/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/manav_patnaik)
+[![Twitter Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/755294941118201926)
+
+Technologies I work on:
+
 
 
 ![](https://komarev.com/ghpvc/?username=manavpatnaik&color=red)
