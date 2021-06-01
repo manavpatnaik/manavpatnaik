@@ -1,7 +1,6 @@
 ## Hey there people! 👋
 
-#### I am Manav Patnaik, a Computer Science Undergrad from ![India](https://github.com/manavpatnaik/manavpatnaik/blob/main/india.png?raw=true)
-interested in Web Development and Problem Solving 
+#### I am Manav Patnaik, a Computer Science Undergrad from ![India](https://github.com/manavpatnaik/manavpatnaik/blob/main/assets/india.png?raw=true) interested in Web Development and Problem Solving 
 
 ---
 
