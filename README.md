@@ -2,12 +2,12 @@
 
 #### I am Manav Patnaik, a Computer Science Undergrad from ![India](https://github.com/manavpatnaik/manavpatnaik/blob/main/assets/india.png?raw=true) 
 
-#### I am interested in Web Development and Problem Solving 
+#### I am interested in Web Development, Machine Learning and Problem Solving 
 
 ---
 
-- 🌱 I am currently learning Nodejs, Reactjs and other fun things
-- 👯 I am looking to collaborate on Backend Web dev projects
+- 🌱 I am currently learning Machine Learning/Data Science and other fun things
+- 👯 I am looking to collaborate on Backend Web dev / ML projects
 - 😄 Pronouns: He/Him
 
 \
