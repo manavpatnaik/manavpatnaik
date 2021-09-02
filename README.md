@@ -44,9 +44,7 @@ Technologies I work with:
 
 My stats:
 
-<a href="https://github.com/manavpatnaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavpatnaik&theme='chartreuse-dark'&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![Manav's github activity graph](https://activity-graph.herokuapp.com/graph?username=manavpatnaik&theme=material-palenight)](https://github.com/manavpatnaik)
 
 ![](https://komarev.com/ghpvc/?username=manavpatnaik&color=red)
 
