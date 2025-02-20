@@ -19,7 +19,7 @@ I'm a passionate software developer with experience in **Spring Boot, Java, Java
 
 ## 📫 Let's Connect!  
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/manav-patnaik/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/manav-patnaik/) 
 - 🌎 [Portfolio](#)  
 - 📧 Reach me at: *dev.manavpatnaik@gmail.com*  
 
